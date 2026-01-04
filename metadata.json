@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 接触网腕臂结构计算器",
+  "description": "专业铁路接触网平腕臂、斜腕臂及抬高支长度计算工具，支持22项参数输入并实时持久化存储。",
+  "requestFramePermissions": []
+}
